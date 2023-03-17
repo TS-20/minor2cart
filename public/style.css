@@ -1,0 +1,23 @@
+
+nav{
+    display:flex;
+    align-items: center;
+    list-style-type: none;
+    height: 70px;
+    background-color:#191c26;
+    color:#a9afc3;
+}
+body{
+    background-color:#13131f;
+    padding-top: 10px;
+}
+.panel-title {
+    display: inline;
+    font-weight: bold;
+}
+.checkbox.pull-right { 
+    margin: 0; 
+}
+.pl-ziro {
+     padding-left: 0px;
+     }
